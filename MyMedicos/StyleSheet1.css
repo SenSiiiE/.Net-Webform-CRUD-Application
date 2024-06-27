@@ -1,0 +1,191 @@
+﻿.custom-search-btn {
+    margin-right: 50px;
+    width:100px
+}
+.custom-search-input {
+    margin-right: 10px;
+    width:200px;
+    border-radius: 5px
+}
+.custom-search{
+    display:flex;
+    
+}
+.custom-search-btn{
+    border-radius:10px;
+    width: 70px
+}
+
+    .custom-search-btn:hover {
+        background-color:burlywood;
+        transform: scale(1.1);
+    }
+.custom-brand {
+    padding: 5px;
+}
+
+.hamburgur{
+    float:left
+}
+
+.download-btn {
+    float: right
+}
+
+.custom-brand {
+    /*padding-top: 25px;*/
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+    font-family:'Freestyle Script';
+    font-size: x-large
+
+}
+.custom-nav-list-item > a{
+    margin-left: 20px;
+    margin-right:20px;
+    font-size: large
+}
+
+.custom-nav {
+    background-color: darkblue
+}
+
+.custom-brand:hover{
+    cursor:auto
+}
+.parent {
+    height: 100vh; /* Set height to cover the entire viewport */
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center content horizontally */
+    background-image: url(electogo.jpg);
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat;
+    overflow: hidden; /* Prevent content overflow */
+}
+
+.custom-show-items {
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+
+}
+
+.custom-form-heading {
+    /*margin-left: 50px*/
+    /*margin: 40px*/
+}
+/*h1{
+    padding-left: 48px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}*/
+
+.custom-logo{
+    width:30px;
+    height:auto;
+    padding-bottom: 10px;
+    padding-left: 5px
+}
+
+.custom-form{
+    display:flex;
+    flex-direction:column;
+    margin-top: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-image: url(backpic.jpg)
+/**/}
+
+.custom-field {
+    height: 50px
+}
+
+.custom-form-content {
+    margin: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.submit-btn{
+    display:flex;
+}
+
+.custom-a{
+    text-decoration:none;
+}
+.custom-a:hover {
+    color:cornflowerblue; /* Change color when hovering */
+    /*background-color: #f4f4f4;*/ /* Change background color when hovering */
+    transform: scale(1.1);
+}
+
+.error-message{
+    color:red;
+}
+
+.custom-success {
+    line-height: 100px; /* Vertically center the text (adjust the value as needed) */
+    height: 100px;
+    padding-left: 50px;
+    margin-top: 30px
+}
+
+#item_name{
+    color:white
+}
+
+.custom-heading {
+    color: white;
+    padding-left: 48px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.theading{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 20px;
+    text-align:center;
+    padding: 10px
+}
+
+.table-responsive{
+    display:flex;
+    justify-content:center;
+/*    background-color:blue
+*/}
+.Custom-table{
+ /*   border: 0;
+    width: 50%
+*/
+}
+
+/*table-div{
+     width:100%;
+    display:flex;
+    justify-content:center;
+    margin-top:20px;
+    background-color:white;
+    
+}*/
+
+td{
+    text-align:center
+}
+
+.item-list-btn{
+    margin-left:10px
+}
+
+.item-heading{
+    text-align:center;
+    margin-top: 50px;
+}
+
+.Custom-body{
+    /*background-image: url(electogo.jpg)*/
+    background-color: black !important
+}
+
